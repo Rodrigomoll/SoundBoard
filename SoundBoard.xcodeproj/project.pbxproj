@@ -14,6 +14,7 @@
 		768D22FC2836F8A0007CEC92 /* SoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 768D22FA2836F8A0007CEC92 /* SoundBoard.xcdatamodeld */; };
 		768D22FE2836F8A4007CEC92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 768D22FD2836F8A4007CEC92 /* Assets.xcassets */; };
 		768D23012836F8A4007CEC92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 768D22FF2836F8A4007CEC92 /* LaunchScreen.storyboard */; };
+		768D23092836FD1D007CEC92 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 768D23082836FD1D007CEC92 /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		768D22FD2836F8A4007CEC92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		768D23002836F8A4007CEC92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		768D23022836F8A4007CEC92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		768D23082836FD1D007CEC92 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				768D22F32836F8A0007CEC92 /* SceneDelegate.swift */,
 				768D22F52836F8A0007CEC92 /* ViewController.swift */,
 				768D22F72836F8A0007CEC92 /* Main.storyboard */,
+				768D23082836FD1D007CEC92 /* SoundViewController.swift */,
 				768D22FD2836F8A4007CEC92 /* Assets.xcassets */,
 				768D22FF2836F8A4007CEC92 /* LaunchScreen.storyboard */,
 				768D23022836F8A4007CEC92 /* Info.plist */,
@@ -145,6 +148,7 @@
 				768D22F62836F8A0007CEC92 /* ViewController.swift in Sources */,
 				768D22F22836F8A0007CEC92 /* AppDelegate.swift in Sources */,
 				768D22F42836F8A0007CEC92 /* SceneDelegate.swift in Sources */,
+				768D23092836FD1D007CEC92 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
